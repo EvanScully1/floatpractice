@@ -1,0 +1,57 @@
+* {
+    color: whitesmoke
+}
+
+body {
+    max-width: max-content;
+    align-items: center;
+    /* margin: auto; */
+}
+
+html {
+    background-image: url(../images/background.jpeg);
+}
+
+footer {
+    text-align: center;
+    font-size: 150%;
+    margin-top: auto;
+}
+
+img {
+    width: 700px;
+    height: 400px
+}
+
+/* .right img {
+    float: right;
+} */
+
+header {
+    text-align: center;
+    font-size: 320%;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.left img {
+    float: left;
+    margin-left: 20px;
+}
+
+.right img {
+    float: right;
+    margin-right: 1em;
+}
+
+.right p {
+    margin-right: 1em;
+    font-size: 160%;
+    
+}
+
+.left p {
+    padding: 4em;
+    font-size: 160%;
+    margin-left: -3em;
+}
